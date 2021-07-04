@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=KoHo:wght@200;300;400;500;600;700&display=swap");
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "KoHo:wght", KoHo;
+    outline: none;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.section-1 {
+    width: 100%;
+    height: 100vh;
+    background-color: #f2f1ed;
+    display: flex;
+}
+
+.intro {
+    margin: 20rem auto 20rem auto;
+    justify-content: center;
+}
+
+.myself {
+    margin-left: -60rem;
+    margin-bottom: -70rem;
+}
+
+.self {
+    flex-direction: column;
+    font-size: 2rem;
+    font-weight: 900;
+    margin-bottom: 3rem;
+}
+.section-1-heading {
+    font-size: 4rem;
+    font-weight: 900;
+}
+.self-title {
+    font-size: 1.6rem;
+    font-weight: 400;
+    margin-bottom: 2rem;
+}
+.self-description {
+    font-size: 1.6rem;
+    font-weight: 400;
+    margin-bottom: 2rem;
+    width: 50rem;
+}
+.image {
+    width: 100%;
+}
+.vector-image {
+    width: 50rem;
+    margin-top: 37rem;
+    margin-right: -50rem;
+}
+.hero-btn {
+    width: 15rem;
+    font-size: 1.6rem;
+    font-weight: 800;
+    padding: 2rem;
+    border: 0.1rem solid #b08f33;
+    border-radius: 1rem;
+    text-align: center;
+    margin-top: 10rem;
+    cursor: pointer;
+}
+.hire-btn {
+    color: #000;
+}
