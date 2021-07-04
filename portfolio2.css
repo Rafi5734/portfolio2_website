@@ -147,6 +147,7 @@ html {
     padding: 5rem 5rem 10rem 5rem;
     margin-right: 10rem;
     border-radius: 5rem;
+    box-shadow: 3px 3px 5px 6px #ccc;
 }
 .box-2 {
     width: 40%;
@@ -155,6 +156,7 @@ html {
     text-align: center;
     padding: 5rem 5rem 10rem 5rem;
     border-radius: 5rem;
+    box-shadow: 3px 3px 5px 6px #ccc;
 }
 .box-1-heading {
     font-size: 5rem;
